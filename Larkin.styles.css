@@ -312,7 +312,7 @@ img{
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
 /*was confused on this one, I went with the size based on the html file where image was 300px file named*/ 
-@media (min-width: 1380){
+@media (min-width: 1380px){
      img{
         width: 300px;
         max-width: 300px;
